@@ -8,3 +8,4 @@ They can be used to gather information on how different networks behave over the
 
 * `3g`: Ping over mobile 3g networks while riding in a train.
 * `4g`: Ping over mobile 4g networks while riding in a train.
+* `ice-wifi`: Passenger WLAN network on ICE trains in Germany
